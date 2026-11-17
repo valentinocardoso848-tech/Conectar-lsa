@@ -8,7 +8,7 @@ window.CONECTAR_CONFIG = {
   /* Dirección del servidor de Render, tal cual te la da Render,
      entre comillas y SIN barra al final.
      Ejemplo: "https://conectar-lsa-servidor.onrender.com"      */
-  servidor: "",
+  servidor: "https://conectar-lsa.vercel.app",
 
   /* EmailJS: manda el código de verificación al crear el perfil.
      Si estos datos dejan de andar, borralos (dejá "") y el perfil
